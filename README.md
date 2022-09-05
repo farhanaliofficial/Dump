@@ -3,7 +3,7 @@ Dump Old Uid and Phone Number<br>
 Only for 32bit<br>
 Wait for 64bit
 
-</br>
+</br><br>
 [![GitHub](https://img.shields.io/badge/GitHub-Farhan%20Ali-blue)](https://github.com/farhanaliofficial/)<br>
 [![Facebook](https://img.shields.io/badge/Facebook-Farhan%20Ali-blue)](https://www.facebook.com/farhanaliofficials)
 
