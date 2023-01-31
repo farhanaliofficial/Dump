@@ -10,7 +10,7 @@ Wait for 64bit
 
 <h1 align="center">FARHAN ALI</h1>
 <p align="center">
-      Don't Copy
+      ✨😶🌚🔥
 </p>
 
 
